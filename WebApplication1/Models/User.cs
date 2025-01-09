@@ -11,5 +11,6 @@ namespace WebApplication1.Models
           public string FirstName { get; set; }
         public string LastName { get; set; }
         public string address { get; set; }
+        public string address2 { get; set; }
     }
 }
