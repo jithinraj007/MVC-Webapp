@@ -12,6 +12,7 @@ namespace WebApplication1.Models
         public string LastName { get; set; }
         public string address { get; set; }
         public string address2 { get; set; }
+        public int phone { get; set; }
         public int zip { get; set; }
 
     }
